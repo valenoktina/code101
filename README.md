@@ -18,7 +18,7 @@ JacaScrirt code snippets
 - чехлы
 
  
-- [ссылка на мое портфолио:]((https://disk.yandex.ru/d/HeTGj8wmt9Ho9g))
+[ссылка на мое портфолио:]((https://disk.yandex.ru/d/HeTGj8wmt9Ho9g))
 
 | части/свойства робота  | материал/компонент |
 | ------------- | ------------- |
