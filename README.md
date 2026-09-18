@@ -34,4 +34,4 @@ let undef;
 
 ```
 
-<img width="480" height="206" alt="image" src="https://github.com/user-attachments/assets/d55463ab-a9a2-4259-924c-e37599a5b608" />
+<div class="tenor-gif-embed" data-postid="9251349591578208781" data-share-method="host" data-aspect-ratio="2.3301" data-width="100%"><a href="https://tenor.com/view/hula-hula-hula-james-henry-ed-gif-9251349591578208781">Hula Hula Hula GIF</a>from <a href="https://tenor.com/search/hula-gifs">Hula GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
